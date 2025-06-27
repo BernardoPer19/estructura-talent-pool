@@ -1,96 +1,96 @@
 {
-    "personal_info": {
-        "first_name": "Agustín",
-        "last_name": "Peredo",
-        "email": "wawxper08@gmail.com",
-        "phone": "+591 64854829",
-        "location": {
-            "country": "Bolivia",
-            "city": "Cochabamba",
-            "state": ""
-        },
-        "linkedin": "",
-        "website": "",
-        "portfolio": "",
-        "summary": "Soy Agustín Bernardo Peredo, estudiante de Ingeniería en Informática con más de 8 meses de experiencia en el desarrollo de aplicaciones web."
+  "personal_info": {
+    "first_name": "Agustín",
+    "last_name": "Peredo",
+    "email": "wawxper08@gmail.com",
+    "phone": "+591 64854829",
+    "location": {
+      "country": "Bolivia",
+      "city": "Cochabamba",
+      "state": ""
     },
-    "work_experience": [
-        {
-            "job_title": "Desarrollador Frontend",
-            "company": "Bicidatos-LabTecnoSocial",
-            "location": "Cochabamba, Bolivia",
-            "start_date": "2024-02-02",
-            "end_date": "2024-05-12",
-            "currently_working": false,
-            "responsibilities": [
-                "Desarrollé nuevas funcionalidades para mejorar la experiencia del usuario.",
-                "Optimizé el rendimiento general de la aplicación web.",
-                "Implementé cambios en la interfaz de usuario (UI) para un diseño más intuitivo.",
-                "Contribuí al desarrollo y mantenimiento del código frontend."
-            ],
-            "achievements": [],
-            "repository_url": ""
-        }
-    ],
-    "education": [
-        {
-            "degree": "Técnico Superior en Programación Web y Diseño Web",
-            "institution": "Cochabamba",
-            "location": "Bolivia",
-            "start_date": "2022-03-02",
-            "end_date": "2023-11-22",
-            "hours": 0
-        },
-        {
-            "degree": "Ingeniería en Informática (en curso)",
-            "institution": "Universidad Mayor de San Simón",
-            "location": "Cochabamba, Bolivia",
-            "start_date": "",
-            "end_date": "",
-            "hours": 0
-        }
-    ],
-    "skills": {
-        "keywords": {
-            "technical": [
-                "html5",
-                "css3",
-                "javascript-(es6+)",
-                "typescript",
-                "react.js",
-                "next.js",
-                "astro",
-                "tailwind-css",
-                "sass",
-                "bootstrap",
-                "prisma",
-                "mysql",
-                "sqlite",
-                "firebase",
-                "supabase",
-                "sql",
-                "diseño-web"
-            ],
-            "soft": [
-                "resolución-de-problemas",
-                "trabajo-en-equipo",
-                "adaptabilidad",
-                "comunicación-efectiva",
-                "gestión-del-tiempo",
-                "creatividad",
-                "compromiso-y-aprendizaje-continuo"
-            ],
-            "tools": []
-        },
-        "detailed": {
-            "technical": {},
-            "soft": {}
-        }
+    "linkedin": "",
+    "website": "",
+    "portfolio": "",
+    "summary": "Soy Agustín Bernardo Peredo, estudiante de Ingeniería en Informática con más de 8 meses de experiencia profesional en desarrollo web. Tengo una fuerte base en frontend, con sólidos conocimientos en backend, lo que me permite desenvolverme cómodamente en ambos entornos."
+  },
+  "work_experience": [
+    {
+      "job_title": "Desarrollador Frontend",
+      "company": "Bicidatos - LabTecnoSocial",
+      "location": "Cochabamba, Bolivia",
+      "start_date": "2024-02-02",
+      "end_date": "2024-05-12",
+      "currently_working": false,
+      "responsibilities": [
+        "Desarrollé nuevas funcionalidades para mejorar la experiencia del usuario.",
+        "Optimizé el rendimiento general de la aplicación web.",
+        "Implementé mejoras en la interfaz de usuario (UI) para una navegación más intuitiva.",
+        "Contribuí al desarrollo y mantenimiento del código frontend utilizando buenas prácticas."
+      ],
+      "achievements": [],
+      "repository_url": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico Superior en Programación y Diseño Web",
+      "institution": "Instituto Técnico - Cochabamba",
+      "location": "Bolivia",
+      "start_date": "2022-03-02",
+      "end_date": "2023-11-22",
+      "hours": 0
     },
-    "certifications": [],
-    "projects": [],
-    "languages": [],
-    "volunteer_experience": [],
-    "publications": [],
-    "references": []
+    {
+      "degree": "Ingeniería en Informática (en curso)",
+      "institution": "Universidad Mayor de San Simón",
+      "location": "Cochabamba, Bolivia",
+      "start_date": "",
+      "end_date": "",
+      "hours": 0
+    }
+  ],
+  "skills": {
+    "keywords": {
+      "technical": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Astro",
+        "Tailwind CSS",
+        "Sass",
+        "Bootstrap",
+        "Prisma",
+        "MySQL",
+        "SQLite",
+        "Firebase",
+        "Supabase",
+        "SQL",
+        "Diseño Web"
+      ],
+      "soft": [
+        "Resolución de problemas",
+        "Trabajo en equipo",
+        "Adaptabilidad",
+        "Comunicación efectiva",
+        "Gestión del tiempo",
+        "Creatividad",
+        "Compromiso y aprendizaje continuo"
+      ],
+      "tools": []
+    },
+    "detailed": {
+      "technical": {},
+      "soft": {}
+    }
+  },
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "volunteer_experience": [],
+  "publications": [],
+  "references": []
 }
